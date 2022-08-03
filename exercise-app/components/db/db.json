@@ -27,22 +27,11 @@
       "name": "ATG Split Squat",
       "thumb": "/static/atg_split_squat.png",
       "vid": "/static/atg_split_squat.mp4",
-      "explanation": "Working side ass should be touching heel",
+      "explanation": "Working side glute should be touching heel",
       "sets": 2,
       "reps": 8,
       "weight": "65 lbs",
       "duration": "28 min"
-    },
-    {
-      "title": "vrJohnWick",
-      "name": "VR John Wick",
-      "thumb": "",
-      "vid": "https://www.youtube.com/watch?v=ZNX-HPrJgFw",
-      "explanation": "Flow like water",
-      "sets": 0,
-      "reps": 0,
-      "weight": "0",
-      "duration": "0"
     }
   ]
 }
