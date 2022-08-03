@@ -1,0 +1,48 @@
+{
+  "exercises": [
+    {
+      "title": "deltMidYRaise",
+      "name": "Med Delt Y-Raise",
+      "thumb": "/static/side_delt-y_raise.png",
+      "vid": "/static/side_delt-y_raise.mp4",
+      "explanation": "Palms down; squeeze handles to prevent shoulder strain; arms in line with back at top",
+      "sets": 2,
+      "reps": 12,
+      "weight": "5 lbs",
+      "duration": "8 min"
+    },
+    {
+      "title": "vmoSquat",
+      "name": "VMO Squat",
+      "thumb": "/static/vmo_squat.png",
+      "vid": "/static/vmo_squat.mp4",
+      "explanation": "keep knees facing forward; don't bounce at bottom",
+      "sets": 2,
+      "reps": 8,
+      "weight": "120 lbs",
+      "duration": "12 min"
+    },
+    {
+      "title": "atgSplitSquat",
+      "name": "ATG Split Squat",
+      "thumb": "/static/atg_split_squat.png",
+      "vid": "/static/atg_split_squat.mp4",
+      "explanation": "Working side ass should be touching heel",
+      "sets": 2,
+      "reps": 8,
+      "weight": "65 lbs",
+      "duration": "28 min"
+    },
+    {
+      "title": "vrJohnWick",
+      "name": "VR John Wick",
+      "thumb": "",
+      "vid": "https://www.youtube.com/watch?v=ZNX-HPrJgFw",
+      "explanation": "Flow like water",
+      "sets": 0,
+      "reps": 0,
+      "weight": "0",
+      "duration": "0"
+    }
+  ]
+}
